@@ -1,0 +1,4 @@
+config/mail.local.php
+storage/mail.log
+vendor/
+.env
